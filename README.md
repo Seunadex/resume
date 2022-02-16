@@ -44,7 +44,7 @@ _(Ruby on rails, CoffeeScript, JQuery)_
 
 ----
 
-Open-source projects contrinuted to:
+Open-source projects contributed to:
 * [if-me](https://www.if-me.org/): A community for mental health experiences
 * [Rorganize.it](https://github.com/rubycorns/rorganize.it): Helps facilitate Rails Girls workshop
 * [Chattie](https://my-chattie.herokuapp.com/): Chat application using ActionCable
