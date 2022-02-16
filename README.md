@@ -1,21 +1,21 @@
-# ADEKUNLE, Oluwaseun Oladele
-Software Engineer
+# <p align="center">ADEKUNLE, Oluwaseun Oladele</p>
+### <p align="center">Software Engineer</p>
 
 ----
-_Email: adekunleseun001@gmail.com, Mobile: +2348137995487_
+<p align="center">Email: adekunleseun001@gmail.com, Mobile: +2348137995487</p>
 
-_[LinkedIn](https://www.linkedin.com/in/oluwaseun-adekunle-103487a7/), [Twitter](https://twitter.com/sheun_adex), [Stack Overflow](https://stackoverflow.com/users/7506518/seun-adekunle)_
+<p align="center"><a href="https://www.linkedin.com/in/oluwaseun-adekunle-103487a7/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/sheun_adex" target="_blank">Twitter</a>, <a href="https://stackoverflow.com/users/7506518/seun-adekunle" target="_blank">Stack Overflowr</a></p>
 
 ----
 ### Professional Summary:
-I am a versatile Software Engineer with over four(4) years experience in building growth-driving tech applications for various companies globally.
+I am a versatile Software Engineer with over four(4) years experience in building growth-driving tech applications for companies globally.
 
 ---
 
 ### Technical Skills:
 
-* Programming: -> JavaScript, TypeScript, Ruby
-* Framework: -> React, Rails, JQuery, GraphQL, MaterialUI, React-bootsrap
+* Programming: -> Ruby, JavaScript, TypeScript
+* Framework: -> Ruby on Rails, React, JQuery, GraphQL, MaterialUI, React-bootsrap
 * Architectural/Design Patterns:-> MVC, Client-Server, SOLID
 * Methodology: -> TDD, BDD, Agile, Scrum, Continous Integration
 * Data Storage: -> PostgreSQl, MySQL, Redis, Elasticsearch
@@ -27,13 +27,18 @@ I am a versatile Software Engineer with over four(4) years experience in buildin
 
 ### Work Experience:
 
-* **Ascent Reg Tech** - _Software Engineer Consultant_ (July 2020 - Date)
+* **Ascent Reg Tech** - _Software Engineer Consultant_ (July 2020 - Date). 
+
+  _(Ruby on Rails, GraphQl, React, Typescript, Recoil/MobX, ElasticSearch, Redis, Docker)_
   - Preparing Tech plans
   - Implementing features and functionalities
   - Reviewing and providing quality feedback on work done by other team members
   - Handles complex frontend tasks and foundational works
-* **Andela** - Software Engineer (June 2017 - July 2020)
-  Integrating into various Andela partners' teams and driving the business through milestones via technology
+* **Andela** - Software Engineer (June 2017 - July 2020)  
+_(Ruby on rails, CoffeeScript, JQuery)_  
+
+  Integrating into various Andela partners' teams and driving the business through milestones via technology  
+
   - Ascent - Software Engineer (April 2018 - July 2020)
   - VOF - Software Developer (September 2017 - December 2018)
 
