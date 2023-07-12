@@ -2,23 +2,23 @@
 ### <p align="center">Software Engineer</p>
 
 ----
-<p align="center">Email: adekunleseun001@gmail.com, Mobile: +2348137995487</p>
+<p align="center">Email: adekunleseun001@gmail.com</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/oluwaseun-adekunle-103487a7/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/sheun_adex" target="_blank">Twitter</a>, <a href="https://stackoverflow.com/users/7506518/seun-adekunle" target="_blank">Stack Overflowr</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/oluwaseun-adekunle-103487a7/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/sheun_adex" target="_blank">Twitter</a>, <a href="https://stackoverflow.com/users/7506518/seun-adekunle" target="_blank">Stack Overflow</a></p>
 
 ----
 ### Professional Summary:
-I am a versatile Software Engineer with over four(4) years experience in building growth-driving tech applications for companies globally.
+I am a versatile Software Engineer with over four(4) years of experience in building growth-driving tech applications for companies globally.
 
 ---
 
 ### Technical Skills:
 
 * Programming: -> Ruby, JavaScript, TypeScript
-* Framework: -> Ruby on Rails, React, JQuery, GraphQL, MaterialUI, React-bootsrap
+* Framework: -> Ruby on Rails, React, JQuery, GraphQL, MaterialUI, React-bootstrap
 * Architectural/Design Patterns:-> MVC, Client-Server, SOLID
 * Methodology: -> TDD, BDD, Agile, Scrum, Continous Integration
-* Data Storage: -> PostgreSQl, MySQL, Redis, Elasticsearch
+* Data Storage: -> PostgreSQL, MySQL, Redis, Elasticsearch
 * CD / DevOps: -> Heroku, Docker, Kubernetes, CircleCI, TravisCI
 * Version Control: -> Git
 * Project Management: -> Jira, Pivotal Tracker, Trello
